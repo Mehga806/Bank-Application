@@ -1,0 +1,10 @@
+{
+  "routes": [
+    "/",
+    "/dashboard",
+    "/deposit",
+    "/register",
+    "/transaction",
+    "/withdraw"
+  ]
+}
